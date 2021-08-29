@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyễn Viết Thọ",
+        "phone": "0989946013",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Hoàng Văn Hiệp",
+        "phone": "0965235215",
+        "permission": 3
+    },
+    {
+        "id": 3,
+        "name": "Hoàng Văn Chính",
+        "phone": "0125485652",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Nguyễn Thị Tâm",
+        "phone": "0215425632",
+        "permission": 2
+    },
+    {
+        "id": 5,
+        "name": "Nguyễn Trọng Hiếu",
+        "phone": "0335621452",
+        "permission": 3
+    },
+    {
+        "id": 6,
+        "name": "Nguyễn Minh Triết",
+        "phone": "0525621452",
+        "permission": 3
+    }
+]
